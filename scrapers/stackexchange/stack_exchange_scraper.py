@@ -7,6 +7,7 @@
 # 
 # Note:  this saves to a scraperwiki sqlite database!
 #
+# Written by AJ Cave and Garret Garcia
 
 import scraperwiki
 import lxml.html
